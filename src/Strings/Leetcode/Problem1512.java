@@ -17,7 +17,7 @@ public class Problem1512 {
         }
 
         public static void main(String[] args) {
-            NumberOfGoodPairs obj = new NumberOfGoodPairs();
+            Problem1512 obj = new Problem1512();
 
             int[] nums = {1, 2, 3, 1, 1, 3};
 
